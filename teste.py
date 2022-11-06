@@ -4,6 +4,8 @@ import pandas as pd
 import math
 import numpy as np
 
+#TESTE
+
 def estimate_coef(x, y):
 	# number of observations/points
 	n = np.size(x)
